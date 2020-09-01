@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4FF6609B-BAC0-4A23-BC20-2739E0BE65E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.IFLabLektion2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IFLabLektion2/Program.cs">
+    <Files>
+      <File FileName="IFLabLektion2/Program.cs" Line="13" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IFLabLektion2" expanded="True">
+            <Node name="IFLabLektion2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/Program.cs" relfile="IFLabLektion2/Program.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

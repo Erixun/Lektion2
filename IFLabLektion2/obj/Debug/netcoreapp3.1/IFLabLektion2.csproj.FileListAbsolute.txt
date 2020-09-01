@@ -1,0 +1,12 @@
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/bin/Debug/netcoreapp3.1/IFLabLektion2.deps.json
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/bin/Debug/netcoreapp3.1/IFLabLektion2.runtimeconfig.json
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/bin/Debug/netcoreapp3.1/IFLabLektion2.runtimeconfig.dev.json
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/bin/Debug/netcoreapp3.1/IFLabLektion2.dll
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/bin/Debug/netcoreapp3.1/IFLabLektion2.pdb
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/obj/Debug/netcoreapp3.1/IFLabLektion2.csprojAssemblyReference.cache
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/obj/Debug/netcoreapp3.1/IFLabLektion2.AssemblyInfoInputs.cache
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/obj/Debug/netcoreapp3.1/IFLabLektion2.AssemblyInfo.cs
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/obj/Debug/netcoreapp3.1/IFLabLektion2.csproj.CoreCompileInputs.cache
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/obj/Debug/netcoreapp3.1/IFLabLektion2.dll
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/obj/Debug/netcoreapp3.1/IFLabLektion2.pdb
+/Users/eriksundberg/Documents/CMS20/C#/IFLabLektion2/IFLabLektion2/obj/Debug/netcoreapp3.1/IFLabLektion2.genruntimeconfig.cache
